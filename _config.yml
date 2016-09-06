@@ -1,0 +1,29 @@
+typography_spectrum: 0.06852235831320286
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.032045415602624416
+  lightness: 0.5492036710493267
+  saturation: 0.43702979921363294
+  rhythmicContrast: 0.9470931906253099
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.40507763088680804
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Singapore property agent
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Singapore Property Wanted
+purpose: []
